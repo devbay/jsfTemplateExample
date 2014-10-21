@@ -1,0 +1,26 @@
+.root-template-block {
+    margin-left: 27%;
+    height: 1000px;
+    width: 800px;
+}
+
+.my-header {
+    width: 795px;
+    height: 100px;
+    border: 1px #000000 solid;
+}
+
+.my-content {
+    margin-left: 176px;
+    margin-top: 4px;
+    width: 619px;
+    height: 500px;
+    border: 1px #000000 solid;
+}
+
+.my-left-menu {
+    width: 171px;
+    margin-top: -502px;
+    height: 500px;
+    border: 1px #000000 solid;
+}
